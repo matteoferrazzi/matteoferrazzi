@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matteoferrazzi, MsC financial engineering student at EPFL
+- 👋 Hi, I’m @matteoferrazzi, MSc financial engineering student at EPFL
 
 - 📈 Passionate about the intersection of mathematics, statistics, and finance
 
